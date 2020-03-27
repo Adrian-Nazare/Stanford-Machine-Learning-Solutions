@@ -1,0 +1,46 @@
+Yahoo Security Breach Proposed Settlement
+Jan 31 at 7:02 PM
+PrintRaw message
+
+Yahoo <info@service.comms.yahoo.net>
+To: adrianopol_72@yahoo.com
+We have a new unified Terms of Service and Privacy Policy
+This is a reminder of the Yahoo Data Breach Settlement. If you previously filed a claim, please do not file an additional claim.
+
+If you had a Yahoo account anytime in 2012 through 2016,
+a pending class action settlement may affect you.
+
+ 
+
+A Class Action Settlement has been proposed in litigation against Yahoo! Inc. (“Yahoo”) and Aabaco Small Business, LLC (together, called “Defendants” in this notice), relating to data breaches (malicious actors got into system and personal data was taken) occurring in 2013 through 2016, as well as to data security intrusions (malicious actors got into system but no data appears to have been taken) occurring in early 2012 (collectively, the “Data Breaches”).
+
+2012 Data Security Intrusions: From at least January through April 2012, at least two different malicious actors accessed Yahoo’s internal systems.  The available evidence, however, does not reveal that user credentials, email accounts, or the contents of emails were taken out of Yahoo’s systems.
+2013 Data Breach: In August 2013, malicious actors were able to gain access to Yahoo’s user database and took records for all existing Yahoo accounts—approximately three billion accounts worldwide. The records taken included the names, email addresses, telephone numbers, birth dates, passwords, and security questions and answers of Yahoo account holders. As a result, the actors may have also gained access to the contents of breached Yahoo accounts and, thus, any private information contained within users’ emails, calendars, and contacts.
+2014 Data Breach: In November 2014, malicious actors were able to gain access to Yahoo’s user database and take records of approximately 500 million user accounts worldwide. The records taken included the names, email addresses, telephone numbers, birth dates, passwords, and security questions and answers of Yahoo account holders, and, as a result, the actors may have also gained access to the contents of breached Yahoo accounts, and thus, any private information contained within users’ emails, calendars, and contacts.
+2015 and 2016 Data Breach: From 2015 to September 2016, malicious actors were able to use cookies instead of a password to gain access into approximately 32 million Yahoo email accounts.
+Plaintiffs claim that Defendants failed to adequately protect their Personal Information and that they were injured as a result. Defendants deny any wrongdoing, and no court has made any ruling in these matters.
+
+Who’s Included? If you received a Notice about the Data Breaches, or if you had a Yahoo account at any time between January 1, 2012 and December 31, 2016, and are a resident of the United States or Israel, you are a “Settlement Class Member.”
+
+What does the Settlement provide?  Yahoo has enhanced, or, through its sucessor in interest, Oath Holdings Inc. (“Oath”), continues to enhance security of its customers’ Personal Information stored on its databases.  Defendants will also pay for a Settlement Fund of $117,500,000. The Settlement Fund will provide: a minimum of two years of Credit Monitoring Services to protect Settlement Class Members from future harm, or Alternative Compensation instead of credit monitoring for Class Members who already have Credit Monitoring Services (subject to verification and documentation); Out-of-Pocket Costs for losses related to the Data Breaches; and reimbursement of some costs for those who paid for Yahoo premium or small business services. The Settlement Fund will also be used to pay for attorneys’ fees, costs, and expenses, and Service Awards for the Settlement Class Representatives. These are only a summary of the benefits. For complete information, dates, and details on the benefits, visit the Settlement Website www.YahooDataBreachSettlement.com. 
+
+What are my options? In order to receive any benefits, you must file a claim online or by mail by July 20, 2020.  If you want to keep your right to sue the Defendants yourself, you must exclude yourself from the Settlement Class by March 6, 2020. If you exclude yourself you will not receive any credit monitoring or monetary relief from the Settlement.  If you stay in the Settlement Class, you may object to the Settlement, and/or the amount of attorneys’ fees, costs, and expenses, and/or the amount of Class Representative Service Awards by March 6, 2020.  If you do nothing, you will not receive any credit monitoring or monetary benefits but you will still be bound by the Court’s decisions. Complete information and instructions on Filing a Claim, excluding oneself from the Settlement, or Objecting are available on the Settlement Website at www.YahooDataBreachSettlement.com. 
+
+The Court has scheduled a hearing in this case at 1:30 pm on April 2, 2020, in Courtroom 8 of the U.S Courthouse, 280 South 1st Street, 4th Floor, San Jose, CA 95113, to consider: whether to approve the Settlement; any objections; a request for Class Representatives’ Service Awards; and attorneys’ fees, costs, and expenses for investigating the facts, litigating the case, and negotiating the settlement.  The motion for attorney fees, costs, and expenses will be posted on on the date it is filed or as quickly thereafter as practicable. You may ask to appear at the hearing but you do not have to.
+
+This is only a summary. For complete information and to file a claim for benefits, visit the Settlement Website,  www.YahooDataBreachSettlement.com, email info@YahooDataBreachSettlement.com or call 844-702-2788 (1-80-9344112 for residents of Israel).
+
+
+Click here to go to the Documents page of the website.
+
+Haga clic aquí para ir a la página de Documentos del sitio web.
+
+לחץ כאן למעבר לעמוד המסמכים של האתר.
+
+Нажмите здесь, чтобы перейти на страницу «Документы» веб-сайта.
+
+ 
+Privacy Policy | Terms of Service | Customer Support
+701 First Avenue, Sunnyvale, CA 94089
+©2020 Yahoo
+ 
